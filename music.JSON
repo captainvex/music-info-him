@@ -1,0 +1,67 @@
+{
+  "songs": [
+    {
+      "bg": "#c9bea28f",
+      "artist": "Ricky Montgomery",
+      "songName": "Line Without a Hook",
+      "files": {
+        "song": "https://youtu.be/8JW6qzPCkE8?si=j_xJ7Td0m8AqnjZw",
+        "cover": "https://i.pinimg.com/564x/30/58/ca/3058cac262c4ce3fa26d77cf86fa2430.jpg"
+      }
+    },
+    {
+      "bg": "#0896eba1",
+      "artist": "Coyote theory",
+      "songName": "This Side Of Paradise",
+      "files": {
+        "song": "https://youtu.be/gbshdqKVWvY?si=ajVHwvE4ogYzSA7j",
+        "cover": "https://i.pinimg.com/564x/87/35/a5/8735a544a34d86410887c51806becc5f.jpg"
+      }
+    },
+    {
+      "bg": "#ebbe03",
+      "artist": "Bruno Mars",
+      "songName": "Locked Out Of Heaven",
+      "files": {
+       "song": "https://youtu.be/gsFUfpo7J-o?si=0pojw_JUe2ius-Nh",
+       "cover": "https://i.pinimg.com/736x/0f/26/3c/0f263c0bbbea7a3ee87e6bd0b91d4270.jpg"
+      }
+    },
+    {
+      "bg": "#ffc382",
+      "artist": "New West",
+      "songName": "Those Eyes",
+      "files": {
+      "song": "https://youtu.be/GDND88fqt1o?si=-tqiIQwFSlbNCmt-",
+      "cover": "https://i.pinimg.com/564x/fa/76/fa/fa76fae0a0889c340784cb680abd1d29.jpg"
+      }
+    },
+    {
+      "bg": "#ffcbdc",
+      "artist": "Cigarettes after sex",
+      "songName": "Apocalypse",
+      "files": {
+      "song": "https://youtu.be/sElE_BfQ67s?si=2YgnVo_p9gVvo5sL",
+      "cover": "https://i.pinimg.com/originals/32/68/54/3268549c749bb7e7e79d41349bb65a2a.gif"
+      }
+    },
+    {
+      "bg": "#44c16fb5",
+      "artist": "Aj Rafael",
+      "songName": "We could happen",
+      "files": {
+      "song": "https://youtu.be/rZTg6Nu0kI0?si=9ZOtP5rWJsIgsgQj",
+      "cover": "https://i.pinimg.com/564x/ed/49/64/ed4964bfcb0e83d37f6ea3a22f99fa65.jpg"
+      }
+    },
+    {
+      "bg": "#ff4545",
+      "artist": "Seafret",
+      "songName": "Atlantis",
+      "files": {
+      "song": "https://youtu.be/C5T6v0tymhc?si=tKkD26dhG9w7MAda",
+      "cover": "https://i.pinimg.com/736x/aa/ca/6a/aaca6a27743009652afc9a667a9682e4.jpg"
+      }
+    },
+  ]
+}
